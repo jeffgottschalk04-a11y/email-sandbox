@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="en" style="margin:0;padding:0;">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Cleeri • A Clear Path to Wellness</title>
+  <style>
+    @media only screen and (max-width:600px){
+      .container{width:100%!important;}
+      .px{padding-left:20px!important;padding-right:20px!important;}
+      .stack{display:block!important;width:100%!important;}
+      .btn{display:block!important;width:100%!important;}
+      .metrics td{display:block!important;width:100%!important;margin-bottom:12px!important;}
+      .share-right{text-align:left!important;display:block!important;margin-top:12px!important;}
+    }
+  </style>
+</head>
+<body style="margin:0;padding:0;background:#F7F5F2;">
+  <table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="background:#F7F5F2;">
+    <tr>
+      <td align="center" style="padding:20px;">
+        <table role="presentation" width="600" class="container" style="max-width:600px;background:#FFFFFF;border-radius:16px;overflow:hidden;">
+
+          <!-- HEADER -->
+          <tr>
+            <td style="padding:24px 24px 24px;display:flex;justify-content:space-between;align-items:center;">
+              <a href="https://cleeri.com" target="_blank" style="text-decoration:none;display:inline-block;">
+                <img src="https://mcusercontent.com/09f61c600ff99fad67eff382b/images/d5e2bc97-3091-75bc-a8e6-fee8bf5b570c.png" alt="Cleeri" width="96" style="display:block;height:auto;padding-bottom:16px;">
+              </a>
+              <div class="share-right" style="font-family:Inter,Arial,sans-serif;font-size:13px;">
+                <a href="mailto:?subject=I wanted to share this with you&body=Check out this from Cleeri: https://cleeri.com" style="color:#FF6600;text-decoration:none;">
+                  <img src="https://img.icons8.com/ios-glyphs/20/FF6600/share.png" alt="share" style="vertical-align:middle;margin-right:4px;"> Share with a friend
+                </a>
+              </div>
+            </td>
+          </tr>
+
+          <!-- HERO -->
+          <tr>
+            <td class="px" style="padding:0 24px 28px;">
+              <p style="margin:0 0 8px;font-family:Inter,Arial,sans-serif;font-size:13px;font-weight:600;color:#FF6600;background:#FFF3EC;display:inline-block;padding:6px 10px;border-radius:999px;">🌱 A Clear Path to <span style="color:#1F2A24;">Wellness</span></p>
+              <h1 style="margin:9px 0 12px;font-family:Inter,Arial,sans-serif;font-weight:800;font-size:28px;line-height:36px;color:#1F2A24;">Turn Wellness Recommendations Into <span style="color:#FF6600;">Income</span></h1>
+              <p style="margin:0 0 20px;font-family:Lato,Arial,sans-serif;font-size:15px;line-height:22px;color:#3A4A43;">Cleeri helps <strong>Wellness Providers</strong> earn by sharing products they love with their community.</p>
+
+              <table role="presentation" width="100%" class="metrics" style="border-collapse:separate;border-spacing:12px;margin-bottom:20px;text-align:center;">
+                <tr>
+                  <td style="padding:16px;border:1px solid #E8E3DC;border-radius:12px;background:#FFF;">
+                    <div style="font-size:24px;">🧑‍⚕️</div>
+                    <div style="font-family:Inter,Arial,sans-serif;font-size:20px;font-weight:700;color:#1F2A24;">280+</div>
+                    <div style="font-family:Inter,Arial,sans-serif;font-size:15px;color:#1F2A24;">Wellness Providers</div>
+                  </td>
+                  <td style="padding:16px;border:1px solid #E8E3DC;border-radius:12px;background:#FFF;">
+                    <div style="font-size:24px;">🤝</div>
+                    <div style="font-family:Inter,Arial,sans-serif;font-size:20px;font-weight:700;color:#1F2A24;">40+</div>
+                    <div style="font-family:Inter,Arial,sans-serif;font-size:15px;color:#1F2A24;">Brand Partners</div>
+                  </td>
+                  <td style="padding:16px;border:1px solid #E8E3DC;border-radius:12px;background:#FFF;">
+                    <div style="font-size:24px;">⏱️</div>
+                    <div style="font-family:Inter,Arial,sans-serif;font-size:20px;font-weight:700;color:#1F2A24;">~7 min</div>
+                    <div style="font-family:Inter,Arial,sans-serif;font-size:15px;color:#1F2A24;">Setup</div>
+                  </td>
+                </tr>
+              </table>
+
+              <a href="[PRIMARY_CTA_URL]" class="btn" style="background:#FF6600;color:#FFF;text-decoration:none;font-family:Inter,Arial,sans-serif;font-weight:700;border-radius:999px;display:inline-block;padding:12px 22px;font-size:15px;">Get Started</a>
+            </td>
+          </tr>
+
+          <!-- THIRD PARTY LINKS SECTION -->
+          <tr>
+            <td class="px" style="padding:0 24px 28px;">
+              <table role="presentation" width="100%" style="background:#FFF3EC;border:1px solid #FFD7C2;border-radius:12px;padding:20px;">
+                <tr>
+                  <td style="text-align:left;">
+                    <p style="margin:0 0 8px;font-family:Inter,Arial,sans-serif;font-size:13px;font-weight:700;color:#FF6600;">NEW</p>
+                    <h2 style="margin:0 0 12px;font-family:Inter,Arial,sans-serif;font-size:22px;font-weight:800;color:#1F2A24;">Add all your <span style="color:#FF6600;">third party affiliate shops & item links</span> in one place</h2>
+                    <p style="margin:0 0 14px;font-family:Lato,Arial,sans-serif;font-size:14px;line-height:22px;color:#3A4A43;">Turn third party affiliate item links, third party shop links, and items from Cleeri Exchange into one unified storefront.</p>
+                    <ul style="padding-left:20px;margin:0 0 16px;font-family:Lato,Arial,sans-serif;font-size:14px;color:#3A4A43;">
+                      <li>Easy access for your clients</li>
+                      <li>Easily edit, add and delete links</li>
+                      <li>Automated integration to your store</li>
+                    </ul>
+                    <a href="[PRIMARY_CTA_URL]" class="btn" style="background:#FF6600;color:#FFF;text-decoration:none;font-family:Inter,Arial,sans-serif;font-weight:700;border-radius:999px;display:inline-block;padding:12px 22px;font-size:15px;">Get Started</a>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+
+          <!-- PRODUCTS SECTION -->
+          <tr>
+            <td class="px" style="padding:0 24px 28px;">
+              <h2 style="margin:0 0 8px;font-family:Inter,Arial,sans-serif;font-size:20px;font-weight:700;color:#1F2A24;">Choose from <span style="color:#FF6600;">Top Brands</span></h2>
+              <p style="margin:0 0 16px;font-family:Lato,Arial,sans-serif;font-size:14px;color:#3A4A43;">Add brands like Garmin, Komuso, Drowsy, Echo and more in minutes.</p>
+              <table role="presentation" width="100%" style="border-collapse:separate;border-spacing:12px;">
+                <tr>
+                  <td style="background:#FFF;border:1px solid #E8E3DC;border-radius:12px;vertical-align:top;width:25%;">
+                    <div style="padding:14px;text-align:center;">
+                      <img src="https://mcusercontent.com/09f61c600ff99fad67eff382b/images/3d16c925-a65c-b5a8-7653-0001a3986377.png" style="width:100%;border-radius:8px;display:block;">
+                      <p style="margin:12px 0 6px;font-family:Lato,Arial,sans-serif;font-size:12px;color:#6B7A74;">Garmin</p>
+                      <p style="margin:0 0 6px;font-family:Inter,Arial,sans-serif;font-size:14px;font-weight:700;">fēnix® E–47 mm, AMOLED</p>
+                      <p style="margin:0 0 6px;color:#FFB400;font-size:13px;">★★★★★</p>
+                      <p style="margin:0;font-family:Inter,Arial,sans-serif;font-size:14px;">$599.99</p>
+                    </div>
+                  </td>
+                  <td style="background:#FFF;border:1px solid #E8E3DC;border-radius:12px;vertical-align:top;width:25%;">
+                    <div style="padding:14px;text-align:center;">
+                      <img src="https://mcusercontent.com/09f61c600ff99fad67eff382b/images/a41a3399-5183-adfe-4a55-b59551c12d75.png" style="width:100%;border-radius:8px;display:block;">
+                      <p style="margin:12px 0 6px;font-family:Lato,Arial,sans-serif;font-size:12px;color:#6B7A74;">Komuso</p>
+                      <p style="margin:0 0 6px;font-family:Inter,Arial,sans-serif;font-size:14px;font-weight:700;">Classic Shift</p>
+                      <p style="margin:0 0 6px;color:#FFB400;font-size:13px;">★★★★★</p>
+                      <p style="margin:0;font-family:Inter,Arial,sans-serif;font-size:14px;">$80</p>
+                    </div>
+                  </td>
+                  <td style="background:#FFF;border:1px solid #E8E3DC;border-radius:12px;vertical-align:top;width:25%;">
+                    <div style="padding:14px;text-align:center;">
+                      <img src="https://mcusercontent.com/09f61c600ff99fad67eff382b/images/e3bd1ad8-5cd5-719d-b740-d4a73b8920b6.png" style="width:100%;border-radius:8px;display:block;">
+                      <p style="margin:12px 0 6px;font-family:Lato,Arial,sans-serif;font-size:12px;color:#6B7A74;">Drowsy</p>
+                      <p style="margin:0 0 6px;font-family:Inter,Arial,sans-serif;font-size:14px;font-weight:700;">Royal Blue</p>
+                      <p style="margin:0 0 6px;color:#FFB400;font-size:13px;">★★★★★</p>
+                      <p style="margin:0;font-family:Inter,Arial,sans-serif;font-size:14px;">$79</p>
+                    </div>
+                  </td>
+                  <td style="background:#FFF;border:1px solid #E8E3DC;border-radius:12px;vertical-align:top;width:25%;">
+                    <div style="padding:14px;text-align:center;">
+                      <img src="https://mcusercontent.com/09f61c600ff99fad67eff382b/images/d5fe0af5-f96f-de10-a698-9d5c0585f6af.png" style="width:100%;border-radius:8px;display:block;">
+                      <p style="margin:12px 0 6px;font-family:Lato,Arial,sans-serif;font-size:12px;color:#6B7A74;">Echo Water</p>
+                      <p style="margin:0 0 6px;font-family:Inter,Arial,sans-serif;font-size:14px;font-weight:700;">Echo Ultimate Digital Faucet</p>
+                      <p style="margin:0 0 6px;color:#FFB400;font-size:13px;">★★★★★</p>
+                      <p style="margin:0;font-family:Inter,Arial,sans-serif;font-size:14px;">$749.99</p>
+                    </div>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+
+          <!-- TESTIMONIALS -->
+          <tr>
+            <td class="px" style="padding:0 24px 28px;">
+              <h2 style="margin:0 0 12px;font-family:Inter,Arial,sans-serif;font-size:20px;font-weight:700;color:#1F2A24;">What changed after <span style="color:#FF6600;">Cleeri</span></h2>
+              <table role="presentation" width="100%" style="border-collapse:separate;border-spacing:12px;">
+                <tr>
+                  <td style="background:#FFF;border:1px solid #E8E3DC;border-radius:12px;padding:14px;vertical-align:top;">
+                    <p style="margin:0 0 8px;font-family:Inter,Arial,sans-serif;font-size:14px;font-weight:700;color:#1F2A24;">May Tom</p>
+                    <p style="margin:0 0 8px;font-family:Lato,Arial,sans-serif;font-size:13px;line-height:20px;color:#3A4A43;">Cleeri has been a dream come true to connect high-quality products with my clients and audience. Higher income from products I truly advocate for.</p>
+                    <p style="margin:0;color:#FFB400;font-size:13px;">★★★★★</p>
+                  </td>
+                  <td style="background:#FFF;border:1px solid #E8E3DC;border-radius:12px;padding:14px;vertical-align:top;">
+                    <p style="margin:0 0 8px;font-family:Inter,Arial,sans-serif;font-size:14px;font-weight:700;color:#1F2A24;">Dr Lara Langdon</p>
+                    <p style="margin:0 0 8px;font-family:Lato,Arial,sans-serif;font-size:13px;line-height:20px;color:#3A4A43;">Cleeri puts all my trusted recommendations in one place, making it simple for clients to find reliable resources.</p>
+                    <p style="margin:0;color:#FFB400;font-size:13px;">★★★★★</p>
+                  </td>
+                  <td style="background:#FFF;border:1px solid #E8E3DC;border-radius:12px;padding:14px;vertical-align:top;">
+                    <p style="margin:0 0 8px;font-family:Inter,Arial,sans-serif;font-size:14px;font-weight:700;color:#1F2A24;">Michael Schmidt</p>
+                    <p style="margin:0 0 8px;font-family:Lato,Arial,sans-serif;font-size:13px;line-height:20px;color:#3A4A43;">Direct brand integrations mean better payouts and a cleaner experience for my community.</p>
+                    <p style="margin:0;color:#FFB400;font-size:13px;">★★★★★</p>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+
+          <!-- DARK CALLOUT -->
+          <tr>
+            <td style="padding:0 20px 24px;">
+              <table role="presentation" width="100%" style="border-collapse:separate;border-spacing:0;">
+                <tr>
+                  <td align="center" style="background:#0e1a2a;border-radius:24px;padding:28px 18px;">
+                    <p style="margin:0 0 14px;font-family:Inter,Arial,sans-serif;font-size:18px;line-height:26px;font-weight:700;color:#FFFFFF;">Ready to earn from recommending the products you love?</p>
+                    <a href="[PRIMARY_CTA_URL]" style="background:#FFFFFF;color:#0e1a2a;text-decoration:none;font-family:Inter,Arial,sans-serif;font-weight:700;border-radius:999px;display:inline-block;padding:10px 18px;font-size:14px;">Start your journey today!</a>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+
+        <!-- DISCOVERY CALL -->
+          <tr>
+            <td class="section" style="padding:0 24px 24px 24px;">
+              <table role="presentation" width="100%" style="background:#FFF;border:1px solid #ECE6DE;border-radius:14px;">
+                <tr>
+                  <td align="center" style="padding:18px;">
+                    <p style="margin:0 0 8px;font-family:Inter,Arial,sans-serif;font-size:18px;font-weight:800;color:#1F2A24;">Prefer a quick chat?</p>
+                    <p style="margin:0 0 14px;font-family:Lato,Arial,sans-serif;font-size:14px;color:#3A4A43;">Schedule a 15-minute discovery call and we’ll walk you through getting started with Cleeri.</p>
+                    <table role="presentation" class="btn" style="max-width:420px;width:100%;margin:0 auto;">
+                      <tr><td align="center" bgcolor="#FF6600" style="border-radius:999px;">
+                        <a href="[DISCOVERY_CALL_URL]" style="display:block;padding:12px 22px;font-family:Inter,Arial,sans-serif;font-weight:700;color:#FFFFFF;text-decoration:none;font-size:15px;">Schedule a Discovery Call</a>
+                      </td></tr>
+                    </table>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+
+          <!-- FOOTER -->
+          <tr>
+            <td class="section" style="padding:14px 24px 24px 24px;text-align:center;">
+              <p style="margin:0 0 6px;font-family:Lato,Arial,sans-serif;font-size:11px;line-height:18px;color:#6B7A74;">You’re receiving this because you engaged with Cleeri.</p>
+              <p style="margin:0 0 6px;font-family:Lato,Arial,sans-serif;font-size:11px;line-height:18px;color:#6B7A74;">
+                <a href="[MANAGE_PREFS_URL]" style="color:#1F2A24;text-decoration:underline;">Manage Preferences</a> •
+                <a href="[UNSUB_URL]" style="color:#1F2A24;text-decoration:underline;">Unsubscribe</a> •
+                <a href="mailto:support@cleeri.com" style="color:#1F2A24;text-decoration:underline;">support@cleeri.com</a>
+              </p>
+              <p style="margin:0;font-family:Lato,Arial,sans-serif;font-size:11px;line-height:18px;color:#6B7A74;">© 2025 Cleeri • 4855 Ariva Way, #302, San Diego, CA 92123</p>
+            </td>
+          </tr>
+
+        </table>
+      </td>
+    </tr>
+  </table>
+</body>
+</html>
