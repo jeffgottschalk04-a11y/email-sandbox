@@ -10,7 +10,15 @@
       .px{padding-left:20px!important;padding-right:20px!important;}
       .stack{display:block!important;width:100%!important;}
       .btn{display:block!important;width:100%!important;}
-      .metrics td{display:block!important;width:100%!important;margin-bottom:12px!important;}
+      /* Stack metric cards on mobile with even spacing */
+      .metrics{border-spacing:0!important;}
+      .metrics tr{display:block!important;}
+      .metrics td{display:block!important;width:100%!important;margin:0 0 12px!important;}
+
+      /* Stack product and testimonial cards on mobile with even spacing */
+      .products,.testimonials{border-spacing:0!important;}
+      .products tr,.testimonials tr{display:block!important;}
+      .products td,.testimonials td{display:block!important;width:100%!important;margin:0 0 12px!important;}
       .share-right{text-align:left!important;display:block!important;margin-top:12px!important;}
     }
   </style>
@@ -92,7 +100,7 @@
             <td class="px" style="padding:0 24px 28px;">
               <h2 style="margin:0 0 8px;font-family:Inter,Arial,sans-serif;font-size:20px;font-weight:700;color:#1F2A24;">Choose from <span style="color:#FF6600;">Top Brands</span></h2>
               <p style="margin:0 0 16px;font-family:Lato,Arial,sans-serif;font-size:14px;color:#3A4A43;">Add brands like Garmin, Komuso, Drowsy, Echo and more in minutes.</p>
-              <table role="presentation" width="100%" style="border-collapse:separate;border-spacing:12px;">
+              <table role="presentation" width="100%" class="products" style="border-collapse:separate;border-spacing:12px;">
                 <tr>
                   <td style="background:#FFF;border:1px solid #E8E3DC;border-radius:12px;vertical-align:top;width:25%;">
                     <div style="padding:14px;text-align:center;">
@@ -139,7 +147,7 @@
           <tr>
             <td class="px" style="padding:0 24px 28px;">
               <h2 style="margin:0 0 12px;font-family:Inter,Arial,sans-serif;font-size:20px;font-weight:700;color:#1F2A24;">What changed after <span style="color:#FF6600;">Cleeri</span></h2>
-              <table role="presentation" width="100%" style="border-collapse:separate;border-spacing:12px;">
+              <table role="presentation" width="100%" class="testimonials" style="border-collapse:separate;border-spacing:12px;">
                 <tr>
                   <td style="background:#FFF;border:1px solid #E8E3DC;border-radius:12px;padding:14px;vertical-align:top;">
                     <p style="margin:0 0 8px;font-family:Inter,Arial,sans-serif;font-size:14px;font-weight:700;color:#1F2A24;">May Tom</p>
